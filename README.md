@@ -14,6 +14,9 @@
 
 
 <a href="https://htmx.org/" target="_blank" rel="noreferrer">
-
-
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FZQYYS%2FbtsyRUkmOdM%2FKx6ZQAVrNHZpLP1Gt59azk%2Fimg.jpg" alt="javascript" width="40" height="40"/> 
+
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+<img src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+          " alt="javascript" width="40" height="40"/> 

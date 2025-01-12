@@ -16,4 +16,4 @@
 <a href="https://htmx.org/" target="_blank" rel="noreferrer">
 
 
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQEF9-MNQb8cuA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1695729737133?e=1742428800&v=beta&t=p4hEMO9kZRH8rtnky4xZ59u5YMIDyzh8gB--CTc8fQo" alt="javascript" width="40" height="40"/> 
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5XB1XKdsxzGnEnHgZZ-svw.png" alt="javascript" width="40" height="40"/> 
